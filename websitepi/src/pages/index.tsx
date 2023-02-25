@@ -43,7 +43,7 @@ const Home: NextPage = () => {
       </section>
 
       {/* Team */}
-      <section id="Team" className="snap-center">
+      <section id="Team" className=" snap-start">
         <Team />
       </section>
     </div>
