@@ -1,8 +1,0 @@
-about page text;
-archt, calendar, document. implementations;
-team - add mentors
-
-UI:
--> Fix colouyrs and shit; 
-+ images
-?
